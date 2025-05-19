@@ -1,14 +1,14 @@
-https://i.postimg.cc/wM8YxYsd/WATAWEB-TRAFFIC-DASHBOARD.png
+(https://github.com/user-attachments/assets/9c4e3745-1b9a-4762-a501-0b8129a39008)
 Introduction:
 This report analyzes web traffic and engagement patterns from the WATA platform. It explores trends across traffic sources, session behaviors, bounce rates, and conversion performance. The aim is to uncover actionable insights to enhance digital engagement and conversion optimization strategies.
 Objective of the Project:
 To analyze web traffic and user behavior data to uncover top-performing traffic sources, identify key engagement drivers, and deliver actionable recommendations to optimize conversion rates.
 Problem Being Addressed:
-In a competitive digital environment, maintaining user engagement and maximizing conversion is crucial. This analysis addresses variations in user behavior across traffic sources, aiming to improve marketing strategies and boost website ROI.
+Maintaining user engagement and maximizing conversion is crucial in a competitive digital environment. This analysis addresses variations in user behavior across traffic sources, aiming to improve marketing strategies and boost website ROI.
 
 Story of Data
 Data Source:
-Internal analytics logs captured via a website performance monitoring system.
+Internal analytics logs are captured via a website performance monitoring system.
 Data Collection Process:
 Data was digitally captured from web interactions and user session logs, then compiled into structured Excel dashboards.
 Data Structure:
